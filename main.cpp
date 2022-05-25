@@ -766,13 +766,6 @@ in:  cout << "\n\n\t\t\t\t\t\t\t\t\tYOUR CHOICE IS  :  ";
 
 int main()
 {
-//    autofill_
-//    autofill_database(string nam,string ema,string pass,float ba,int phon,string add,int m,int y)
-    //s_acc[counter].autofill_database("george", "ggg", "0000", 10000, 010, "fayoum", 5, 2020);
-    //s_acc[counter].autofill_database("islam", "ggg", "0000", 1000, 010, "fayoum", 5, 2020);
-    //s_acc[counter].autofill_database("ziad", "ggg", "0000", 50000, 010, "fayoum", 5, 2020);
-    //s_acc[counter].autofill_database("ahmed", "ggg", "0000", 100000, 010, "fayoum", 5, 2020);
-    //s_acc[counter].autofill_database("mohamed", "ggg", "0000", 7000, 010, "fayoum", 5, 2020);
     system1();
     return 0;
 }
